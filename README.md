@@ -1,3 +1,5 @@
+![gif](https://user-images.githubusercontent.com/81648936/143476696-c2532af9-5ab3-4306-94d0-ed0490ddbef3.gif)
+
 <h1 align="center">Hi 👋, I'm Caique Bezerra</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 

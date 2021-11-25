@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [EmpowerEnergy](https://empowerenergy.netlify.app)
 
-- 🌱 I’m currently learning **Java, Angular, Typescript**
+- 🌱 I’m currently learning **Java, Angular and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/caiqueb05](https://github.com/caiqueb05)
 
